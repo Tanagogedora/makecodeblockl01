@@ -1,6 +1,6 @@
 namespace Blocktest {
     // ブロックの定義
-    //% block="bname"
+    //% block="あああ"
     //% blockid=sample_aaa
     //% weight=100
 
